@@ -1,0 +1,330 @@
+<div class="grid">
+    <div class="content">
+        <div class="head"><div class="titl">Магазин игрушек</div></div>
+        <div class="blocks">
+            <div class="left">
+                <div class="spisok_1">
+                    <form>
+                        <p><strong>Цвет</strong></p>
+                        <p><input name="galka" type="checkbox" value="white">Белый</p>
+                        <p><input name="galka" type="checkbox" value="blue">Синий</p>
+                        <p><input name="galka" type="checkbox" value="red">Красный</p>
+                        <p><input name="galka" type="checkbox" value="yellow">Жёлтый</p>
+                    </form>
+                </div>
+                <div class="spisok_2">
+                    <form>
+                        <p><strong>Размер</strong></p>
+                        <p><input name="size" type="checkbox" value="big">Большой</p>
+                        <p><input name="size" type="checkbox" value="small">Маленький</p>
+                        <p><input name="size" type="checkbox" value="middle">Средний</p>
+                    </form>
+                </div>
+            </div>
+            <div class="right">  
+                <div class="pink_B">
+                    <div class="toys"><strong>Мягкие игрушки</strong></div>
+                    <div class="ch"><strong>Все дети любят маленькие игрушки</strong></div>
+                </div>
+
+                <div class="two">
+                    <div class="cat">
+                        <div class="kitty"><a href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Котики</a></div>
+                        <div class="do">Мяукают и ловят мышей</div>
+                    </div>
+                    <div class="bear">
+                        <div class="bearr"><a href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/sobaki">Медведи</a></div>
+                        <div class="are">Лучшие друзья</div>
+                    </div>
+                </div>
+                <div class="pop">
+                    <div class="popul"><strong>Популярные:</strong></div>
+                </div>
+                <section class="menu">
+                    <div class="q">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Фёдор</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="w">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Персик</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="e">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Адольф</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="r">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Барсик</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="t">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Дружок</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="y">
+                        <div class="line">
+                            <div class="square">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkMAYAADkANVKH3ScAAAAASUVORK5CYII=" alt="тут должна быть картинка">
+                            </div>
+                            <div class="bt">
+                                <a class="name" href="https://www.wildberries.ru/catalog/igrushki/myagkie-igrushki/koshki">Пушок</a>
+                                <button class="but">Купить</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div> 
+        </div>
+        <div class="foot">
+            <div class="tleft">Контакты</div>
+            <div class="tright">©2021 Магазин игрушек</div>
+        </div>
+    </div>
+     <style>
+        .body{
+            display: grid;
+            background:
+                linear-gradient(var(--color-grid), transparent 1px),
+                linear-gradient(90deg, var(--color-grid), transparent 1px);
+        }
+        .grid{
+            display: grid;
+            background-color: rgba(180, 0, 180, 0.1);
+        }
+        @media(min-width: 720px){
+            .content{
+                max-width: 960px;
+            }
+        }
+        @media(max-width: 852px){
+            .content{
+                max-width: 852px;
+            }
+            .left{
+                display: none;
+            }
+            .foot{
+                display: none;
+            }
+        }
+        @media(max-width: 480px){
+            .content{
+                max-width: none;
+                min-width: 240px;
+            }
+            .left{
+                display: none;
+            }
+            .two{
+                display: flex;
+                flex-direction: column;
+                /* flex-wrap: wrap; */
+            }
+            .cat, .bear{
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content: center;
+                min-width: 100%;
+            }
+            .menu {
+                max-width: 408px;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                align-items: center;
+            }
+            .q, .w, .e, .r, .t, .y{
+                min-width: 100%;
+                max-height: 84px;
+                display: flex;
+                align-items: center;
+            } 
+            .foot{
+                display: none;
+            }
+        }
+        .content{
+            display: grid;
+            max-width: 960px;
+            height: 100vh;
+            margin: 0 auto;
+        }
+        .head{
+            background-color: #0099cc;
+            text-align: left;
+            font-family: 'Example-font';
+            width: 100%;
+            height: 60px;
+            color: rgb(255, 255, 255);
+            padding: 20px 0 4px 0;
+            font-size: 32px;
+            margin: 0 0 12px 0;
+        }
+        .titl{
+            margin: 6px 0 6px 12px;
+        }
+        .blocks{
+            display: flex;
+            flex-direction: row;
+        }
+        .left{
+            float:left;
+            width: 240px;
+            height: 80vh;
+            background-color: #ccc;
+            margin: 0 12px 0 0;
+        }
+        .right{
+            width: 100%;
+            height: 80vh;
+            background-color: #fff;
+        }
+        .spisok_1{
+            padding: 12px;
+        }
+        .spisok_2{
+            padding: 12px;
+        }
+        .pink_B{
+            width: 100%;
+            height: 80px;
+            padding: 12px 0;
+            background-color: #fff;
+            margin: 0 0 12px 0;
+        }
+        .toys{
+            font-size: 32px;
+            padding-left: 12px; 
+        }
+        .ch{
+            font-size: 16px;
+            padding-left: 12px; 
+        }
+        .two{
+            display: flex;
+            justify-content: space-around;
+        }
+        .cat {
+            background-color: #ccc;
+            width: 49.5%;
+            height: 72px;
+            margin: 0 12px 12px 0;
+        }
+        .bear{
+            background-color: #ccc;
+            width: 49.5%;
+            height: 72px;
+        }
+        .kitty, .bearr {
+            padding: 12px 0 0 12px;
+            color: #666;
+        }
+        .do, .are{
+            padding-left: 12px;
+            color: #666;
+        }
+        .pop{
+            background-color: #fff;
+            font-size: 32px;
+            width: 100%;
+            height: 70px;
+            padding: 12px 0 0 0;
+            margin: 0 12px -12px 0;
+        }
+        .popul{
+            padding-left: 12px;
+        }
+        .menu{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            background-color: #fff;
+        }
+        .q, .w, .e, .r, .t, .y {
+            background-color: #ccc;
+            width: 108px;
+            height: 84px;
+            flex-basis: 30%;
+        }
+        .r, .t, .y {
+            margin: 12px 0;
+        }
+        .q, .w, .e{
+            margin: 12px 0;
+        }
+        .but {
+            margin: 12px 0;
+        }  
+        .square{
+            background-color: #666;
+            width: 60px;
+            height: 60px;
+            margin: 12px; 
+        }
+        .line{
+            display: flex;
+            flex-direction: row;
+        }
+        .bt{
+            display: flex;
+            flex-direction: column;
+            margin-top: 12px;
+        }
+        .foot{
+            background-color: rgb(235, 231, 231);
+            width: 100%;
+            height: 48px;
+            margin: 24px 0 0 0;
+        }
+        .tleft{
+            font-size: 16px;
+            text-align: left;
+            padding: 12px 0 0 12px;
+            color: #666;
+        }
+        .tright{
+            font-size: 16px;
+            text-align: right;
+            margin: -12px 24px 0 0;
+            color: #666;            
+        }
+     </style>
+</div>
